@@ -40,6 +40,7 @@
 git clone https://github.com/HuLingQAQ/SPEG-Base-SAC.git
 cd SPEG-Base-SAC
 pip install -r requirements.txt
+```
 
 ---
 
